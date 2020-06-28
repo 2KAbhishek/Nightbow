@@ -8,6 +8,8 @@
 ![Contributors](https://img.shields.io/github/contributors/2kabhishek/Nightbow?style=plastic&color=f0f&label=Contributors)
 ![License](https://img.shields.io/github/license/2kabhishek/Nightbow?style=plastic&color=555&label=License)
 
+![Nightbow](https://raw.githubusercontent.com/2kabhihsek/Nightbow/master/screenshots/preview.png)
+
 Nightbow is a true black VS Code theme with bright colors.
 
 ## Prerequisites
@@ -18,26 +20,10 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installing Nightbow
 
-To install Nightbow, follow these steps:
-
-```bash
-git clone https://github.com/2kabhishek/Nightbow
-cd Nightbow
-<install_command>
-```
+Nightbow can be found in the VS Code Extensions gallery and in the Marketplace.
 
 ## Using Nightbow
 
-```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
-
-FLAGS:
-    -h, --help              Prints help information.
-
-OPTIONS:
-    -o, --option <value>    Option description. Options are: a, b. [default: a]
-
-```
+Change VS Code colorscheme to `Nightbow`.
 
 ### More Info

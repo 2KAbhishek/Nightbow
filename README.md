@@ -8,14 +8,13 @@
 ![Contributors](https://img.shields.io/github/contributors/2kabhishek/Nightbow?style=plastic&color=f0f&label=Contributors)
 ![License](https://img.shields.io/github/license/2kabhishek/Nightbow?style=plastic&color=555&label=License)
 
-Nightbow is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
-
+Nightbow is a true black VS Code theme with bright colors.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- You have installed the latest version of `VS Code`.
 
 ## Installing Nightbow
 
@@ -41,6 +40,4 @@ OPTIONS:
 
 ```
 
-
 ### More Info
-

@@ -3,7 +3,7 @@
   "displayName": "Nightbow",
   "description": "A true black VS Code theme with bright colors.",
   "version": "1.0.0",
-  "publisher": "2KAbhishek",
+  "publisher": "2kabhishek",
   "license": "GPL-3.0-or-later",
   "engines": {
     "vscode": "^1.46.0"

@@ -8,7 +8,7 @@
 ![Contributors](https://img.shields.io/github/contributors/2kabhishek/Nightbow?style=plastic&color=f0f&label=Contributors)
 ![License](https://img.shields.io/github/license/2kabhishek/Nightbow?style=plastic&color=555&label=License)
 
-![Nightbow](https://raw.githubusercontent.com/2kabhihsek/Nightbow/master/screenshots/preview.png)
+![Nightbow](https://raw.githubusercontent.com/2kabhishek/Nightbow/master/screenshots/preview.png)
 
 Nightbow is a true black VS Code theme with bright colors.
 

@@ -11,6 +11,13 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "dark",
+    "night",
+    "rainbow"
+  ],
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
@@ -19,5 +26,10 @@
         "path": "./themes/Nightbow-color-theme.json"
       }
     ]
+  },
+  "homepage": "https://github.com/2kabhishek/Nightbow",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/2kabhishek/Nightbow"
   }
 }

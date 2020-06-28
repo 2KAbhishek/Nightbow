@@ -11,3 +11,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Added
 
 - Initial release.
+
+## [1.0.1] - 2020-06-28
+
+### Added
+
+- Minimal version of VS Code is 1.12.
+

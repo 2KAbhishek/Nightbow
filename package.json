@@ -1,0 +1,21 @@
+{
+    "name": "Nightbow",
+    "displayName": "Nightbow",
+    "description": "A true black VS Code theme with bright colors.",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nightbow",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nightbow-color-theme.json"
+            }
+        ]
+    }
+}

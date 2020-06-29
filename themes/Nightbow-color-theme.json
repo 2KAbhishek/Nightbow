@@ -97,6 +97,10 @@
     "terminal.background": "#000000",
     "terminalCursor.foreground": "#1a73e8df",
     "textLink.foreground": "#1a73e8",
+    "titleBar.activeBackground": "#000000",
+    "titleBar.border": "#1a73e8",
+    "titleBar.inactiveBackground": "#000000",
+    "window.activeBorder": "#1a73e8"
   },
   "name": "Nightbow"
 }

@@ -10,19 +10,17 @@
 
 ![Nightbow](https://raw.githubusercontent.com/2kabhishek/Nightbow/master/screenshots/preview.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l1zPM1Urh8Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Nightbow is a true black VS Code theme with bright colors.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `VS Code`.
+- You have installed `VS Code`.
 
 ## Installing Nightbow
 
-Nightbow can be found in the VS Code Extensions gallery and in the [Marketplace](https://marketplace.visualstudio.com/items?itemName=2kabhishek.nightbow).
+`Nightbow` can be found in the VS Code Extensions gallery and in the [Marketplace](https://marketplace.visualstudio.com/items?itemName=2kabhishek.nightbow).
 
 ## Using Nightbow
 
@@ -31,4 +29,3 @@ Change VS Code colorscheme to `Nightbow`.
 ## More Info
 
 [Demo Video](http://www.youtube.com/watch?v=l1zPM1Urh8Y "Nightbow")
-

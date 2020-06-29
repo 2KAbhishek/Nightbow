@@ -14,7 +14,26 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [1.0.1] - 2020-06-28
 
-### Added
+### Changed
 
 - Minimal version of VS Code is 1.12.
 
+## [1.0.2] - 2020-06-30
+
+### Added
+
+- Add titlebar colors
+
+- Add more terminal colors
+
+- Add find highlight colors
+
+- Add notification colors
+
+- Add list highlight colors
+
+- Some more tweaks
+
+### Changed
+
+- Switched to pure black for breadcrumbs, tabs, panels.

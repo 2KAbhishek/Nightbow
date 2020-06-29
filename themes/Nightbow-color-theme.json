@@ -95,8 +95,8 @@
     "terminal.ansiWhite": "#f4f4f4",
     "terminal.ansiYellow": "#ffd21a",
     "terminal.background": "#000000",
-    "terminalCursor.foreground": "#1A73E8",
-    "textLink.foreground": "#1A73E8"
+    "terminalCursor.foreground": "#1a73e8df",
+    "textLink.foreground": "#1a73e8",
   },
   "name": "Nightbow"
 }

@@ -37,3 +37,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Changed
 
 - Switched to pure black for breadcrumbs, tabs, panels.
+
+## [1.0.3] - 2020-08-14
+
+### Changed
+
+- Tweaked accent color to a more mild blue.

@@ -12,7 +12,7 @@
 
 Nightbow is a true black VS Code theme with bright colors.
 
-It uses pitch black on most of the elements with blue for accent and borders, the syntax highlighting is inspired by One Dark and Draula colorschemes.
+It uses pitch black on most of the elements with blue for accent and borders, the syntax highlighting is inspired by One Dark and Dracula colorschemes.
 
 ## Prerequisites
 

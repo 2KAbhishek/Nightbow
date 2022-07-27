@@ -1,6 +1,6 @@
 <div align = "center">
 
-<h1><a href="https://2kabhishek.github.io/Nightbow">BareMinimum</a></h1>
+<h1><a href="https://2kabhishek.github.io/Nightbow">Nightbow</a></h1>
 
 <a href="https://github.com/2KAbhishek/Nightbow/blob/main/LICENSE">
 <img alt="License" src="https://img.shields.io/github/license/2kabhishek/Nightbow?style=flat&color=eee&label="> </a>
